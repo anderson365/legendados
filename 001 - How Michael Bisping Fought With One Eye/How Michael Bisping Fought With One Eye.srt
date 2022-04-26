@@ -638,11 +638,11 @@ Porque isso é uma das coisas que o pessoal fala
 O tempo inteiro!
 
 160
-00:05:46,049 --> 00:05:47,049
+00:05:46,049 --> 00:05:48,379
 Se eu for pegar essa garrafa, por exemplo
 
 161
-00:05:48,543 --> 00:05:52,193
+00:05:48,404 --> 00:05:52,193
 Agora tá tudo bem, porque eu toquei nela, então, eu sei onde ela está
 
 162
@@ -671,214 +671,225 @@ Porque tem a percepção de profundidade
 E tudo está em 2D, então às vezes isso pode me atrapalhar um pouco
 
 168
-00:06:06,168 --> 00:06:13,013
+00:06:06,168 --> 00:06:12,898
 Às vezes a visão fica um pouco embaçada e eu fico tonto por causa disso
 
 169
-00:06:13,038 --> 00:06:16,558
-É só algumas vezes mesmo.
-Do nada eu penso: "-Wow! Eu não consigo enxergar direito"
+00:06:12,923 --> 00:06:14,068
+É só algumas vezes mesmo
 
 170
-00:06:16,583 --> 00:06:18,163
-E sobre dirigir?
+00:06:14,093 --> 00:06:16,682
+Do nada eu penso: "-Wow! Eu não consigo enxergar direito"
 
 171
+00:06:16,707 --> 00:06:18,163
+E sobre dirigir?
+
+172
 00:06:18,188 --> 00:06:19,598
 Dirigir é de boa
 
-172
+173
 00:06:19,623 --> 00:06:24,823
 Tudo é do lado direito. Você tem que virar a cabeça pra ver quem tá do seu lado, a faixa...
 
-173
-00:06:24,848 --> 00:06:26,068
-Sim, o tempo todo. Se eu for mudar de faixa
-
 174
+00:06:24,848 --> 00:06:26,068
+Sim. Se eu for mudar de faixa
+
+175
 00:06:26,093 --> 00:06:30,383
 Eu sempre tenho que fazer isso até eu estar realmente longe
 
-175
-00:06:30,408 --> 00:06:34,078
+176
+00:06:30,408 --> 00:06:33,898
 E eu tô sempre acertando o rosto das pessoas
 
-176
-00:06:35,045 --> 00:06:39,545
-E é sempre uma senhorinha, porque na maioria das vezes eu tô muito animado
-
 177
-00:06:39,570 --> 00:06:41,030
-Eu falo com as mãos
+00:06:33,923 --> 00:06:34,592
+Tipo, tipo...
 
 178
-00:06:41,050 --> 00:06:41,940
-Tipo, por exemplo
+00:06:34,617 --> 00:06:36,254
+E é sempre uma senhorinha!
 
 179
-00:06:41,970 --> 00:06:46,490
-Eu tô numa faixa de pedestre em Nova Iorque e no meio de uma história e...
+00:06:36,517 --> 00:06:39,116
+Porque na maioria das vezes eu tô muito animado
 
 180
-00:06:46,515 --> 00:06:49,415
-"Oh, meu Deus! Me desculpe!"
+00:06:39,141 --> 00:06:40,366
+Eu falo com as mãos
 
 181
-00:06:49,440 --> 00:06:51,290
-Eu diz esse movimento na cara de alguém
+00:06:40,391 --> 00:06:41,281
+Tipo, por exemplo
 
 182
-00:06:51,315 --> 00:06:54,565
-E é sempre numa senhorinha
+00:06:41,306 --> 00:06:45,826
+Eu tô numa faixa de pedestre em Nova Iorque e no meio de uma história e...
 
 183
+00:06:46,237 --> 00:06:49,137
+"Oh, meu Deus! Me desculpe!"
+
+184
+00:06:49,336 --> 00:06:51,230
+Eu diz esse movimento na cara de alguém
+
+185
+00:06:51,255 --> 00:06:54,565
+E é sempre numa senhorinha
+
+186
 00:06:54,590 --> 00:06:58,610
 Por alguma razão é sempre numa senhorinha. Elas me olham como se eu fosse o maior cuzão do planeta
 
-184
+187
 00:06:58,635 --> 00:07:00,725
 "Sinto muito!"
 "Sinto muito mesmo!"
 
-185
+188
 00:07:00,750 --> 00:07:03,830
 Oh, isso é terrível
 
-186
+189
 00:07:03,855 --> 00:07:06,635
 Tem alguma esperança em relação ao seu olho?
 
-187
+190
 00:07:06,660 --> 00:07:12,070
 Nada que eles possam fazer para reparar?
 
-188
+191
 00:07:12,095 --> 00:07:14,985
 - Olha pra isso!
 - Wow! Ficou pior.
 
-189
+192
 00:07:15,010 --> 00:07:16,950
 Sim, não tem nada lá
 
-190
+193
 00:07:16,975 --> 00:07:18,065
 Wow.
 
-191
+194
 00:07:18,090 --> 00:07:20,940
 Quando eu mandei fazer esse olho, o que mudou minha vida de muitas formas, pra ser honesto
 
-192
+195
 00:07:20,965 --> 00:07:24,175
 Eu tava de saco cheio de ter essa aparência
 
-193
+196
 00:07:24,200 --> 00:07:26,220
 Você não vê nada por esse olho? Nem luz? Nada?
 
-194
+197
 00:07:27,320 --> 00:07:29,350
 Se eu cobrir meu olho bom e as luzes apagarem e acenderem
 
-195
+198
 00:07:29,375 --> 00:07:35,445
 O tom de preto muda bem sutilmente
 
-196
+199
 00:07:35,470 --> 00:07:37,530
 Eu consigo saber quando as luzes se apagam e acendem
 
-197
+200
 00:07:37,555 --> 00:07:38,055
 Só isso
 
-198
+201
 00:07:38,080 --> 00:07:43,970
 E não tem nenhuma lente específica ou algo assim que eles podem fazer?
 
-199
+202
 00:07:44,420 --> 00:07:51,510
 Eu ouvi recentemente que eles estão colocando olhos robóticos nas pessoas ou algo assim
 
-200
+203
 00:07:51,530 --> 00:07:51,790
 Yes.
 
-201
+204
 00:07:51,815 --> 00:07:53,308
 Mas eu não pesquisei muito sobre isso ainda, porque...
 
-202
+205
 00:07:53,333 --> 00:07:57,065
 Dois joelhos falsos e um olho falso. Imagina. Imagina se fica melhor?
 
-203
+206
 00:07:57,435 --> 00:08:01,110
 Dá pra imaginar?
 Eu tô de volta porra!
 
-204
+207
 00:08:01,140 --> 00:08:03,090
 Vamos nessa!
 
-205
+208
 00:08:03,115 --> 00:08:04,415
 Tô de volta!
 
-206
+209
 00:08:04,440 --> 00:08:07,090
 Mais uma pra conta
 
-207
+210
 00:08:07,115 --> 00:08:09,885
 Dois joelhos falsos pisando no óctogono
 
-208
+211
 00:08:09,910 --> 00:08:12,440
 Isso seria louco, joelhos falsos e olho falso
 
-209
+212
 00:08:12,465 --> 00:08:17,635
 Eu acho que existe um olho eletrônico, que eles criaram
 
-210
+213
 00:08:17,660 --> 00:08:25,550
 Que oferece uma visão superior. E eu acho que ainda está em fase de testes
 
-211
+214
 00:08:25,575 --> 00:08:31,705
 Vê se você consegue achar aí, Jamie. Eu tenho quase certeza que é superior
 
-212
+215
 00:08:31,730 --> 00:08:36,380
 À visão normal. E a forma como interage com o cérebro
 
-213
+216
 00:08:36,405 --> 00:08:38,885
 Eu não sei muito bem como é a interação
 
-214
+217
 00:08:38,910 --> 00:08:42,300
 Com os nervos ópticos e os sinais que são enviados
 
-215
+218
 00:08:42,325 --> 00:08:45,714
 Sim, eu tenho certeza que é melhor com a teconlogia que eles têm
 
-216
+219
 00:08:45,739 --> 00:08:46,443
 Um dia...
 
-217
+220
 00:08:46,760 --> 00:08:48,090
 Sim, com certeza
 
-218
+221
 00:08:48,115 --> 00:08:51,605
 É por isso que eu me aposentei, porquê o médico falou, eles sempre falavam
 
-219
+222
 00:08:51,630 --> 00:08:56,540
 "Que se algo acontecer com seu olho bom, você ficará cego"
 
