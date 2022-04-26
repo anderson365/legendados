@@ -1,132 +1,141 @@
 ﻿1
-00:00:00,360 --> 00:00:02,420
-Do you drink alcohol?
-Yeah.
+00:00:00,360 --> 00:00:01,250
+Você bebe?
 
 2
-00:00:02,450 --> 00:00:04,530
-Hearing the smoke?
-Yeah.
+00:00:01,275 --> 00:00:02,128
+Álcool?
 
 3
-00:00:04,560 --> 00:00:06,610
-They told us when you were coming.
+00:00:02,153 --> 00:00:02,982
+De vez em quando...
 
 4
-00:00:06,640 --> 00:00:08,620
-They were like, we just
-want to let you know.
+00:00:03,007 --> 00:00:03,563
+Você fuma?
 
 5
-00:00:08,650 --> 00:00:10,140
-He'S going to be baked.
+00:00:03,588 --> 00:00:04,536
+Sim!
 
 6
-00:00:10,170 --> 00:00:13,920
-That's what he's going
-to be fucking baked.
+00:00:04,560 --> 00:00:06,610
+Eles nos falaram quando você tava vindo
 
 7
-00:00:15,800 --> 00:00:19,100
-The funny thing is, is that marijuana
-gives me energy, brother.
+00:00:06,640 --> 00:00:08,620
+Eles falaram: "Nós só queríamos que vocês soubessem."
 
 8
-00:00:19,130 --> 00:00:20,300
-What the same.
+00:00:08,650 --> 00:00:10,140
+"Ele vai estar chapado."
 
 9
-00:00:20,320 --> 00:00:21,660
-You know what he's basically saying?
+00:00:10,165 --> 00:00:10,650
+Yeah
 
 10
-00:00:21,690 --> 00:00:22,980
-Marijuana is a hammer.
+00:00:10,674 --> 00:00:12,698
+Eles disseram: "Ele vai estar chapado pra caralho!"
 
 11
-00:00:23,010 --> 00:00:25,300
-Some people use it to fall asleep.
+00:00:12,870 --> 00:00:13,870
+Como você consegue levantar e fazer as coisas?
 
 12
-00:00:25,320 --> 00:00:27,620
-Other people use it
-to build a beautiful house.
+00:00:15,800 --> 00:00:19,100
+O curioso é que maconha me dá energia, irmão
 
 13
-00:00:27,650 --> 00:00:30,120
-Exactly.
-I could smoke on a marathon.
+00:00:19,130 --> 00:00:20,300
+- O quê!?
+- Mesma coisa comigo
 
 14
-00:00:30,150 --> 00:00:33,140
-I could smoke on a two
-hour and a half practice.
+00:00:20,349 --> 00:00:21,660
+Sabe o que ele tá querendo dizer, basicamente?
 
 15
-00:00:33,170 --> 00:00:34,760
-Wow.
-You train while.
+00:00:21,690 --> 00:00:22,980
+A maconha é um martelo
 
 16
-00:00:34,790 --> 00:00:35,940
-You'Re high?
+00:00:23,010 --> 00:00:25,300
+Alguns usam pra cair no sono...
 
 17
-00:00:35,960 --> 00:00:38,140
-Yeah.
-I'm going to say yes.
+00:00:25,320 --> 00:00:27,620
+Outros usam para construir uma linda casa
 
 18
-00:00:38,170 --> 00:00:41,920
-Not all of my practices,
-but a lot of practice.
+00:00:27,650 --> 00:00:30,120
+Exatamente. Eu conseguiria fumar em uma maratona
 
 19
-00:00:41,960 --> 00:00:46,920
-I'm not against smoking a fat one or
-maybe like four and then fucking.
+00:00:30,150 --> 00:00:33,140
+Eu conseguiria fumar em um treino de duas horas e meia
 
 20
-00:00:54,200 --> 00:00:55,820
-Okay.
-I don't know if you're allowed to talk
+00:00:33,170 --> 00:00:34,760
+Você treina enquanto tá chapado?
 
 21
-00:00:55,850 --> 00:01:01,020
-about this, but what is your
-favorite off market fight?
+00:00:35,960 --> 00:00:38,140
+Quer saber? Sim. Vou dizer que sim
 
 22
-00:01:01,040 --> 00:01:02,540
-I'm talking like, you're at a tackle Bell
+00:00:38,170 --> 00:00:41,920
+Não em todos os meus treinos, mas em vários deles
 
 23
-00:01:02,570 --> 00:01:06,560
-and this guy's, like,
-chirping at you and you're like.
+00:00:41,960 --> 00:00:46,920
+Eu não sou contra fumar uma tora ou talvez quatro e depois ir treinar
 
 24
-00:01:06,960 --> 00:01:08,020
-That'S a good one.
+00:00:47,758 --> 00:00:50,853
+"Eu não sou contra fumar uma tora ou DEZENOVE!"
 
 25
-00:01:08,050 --> 00:01:10,100
-Stating the slap is a good one.
+00:00:51,032 --> 00:00:52,552
+Que porra é essa!?
 
 26
-00:01:10,120 --> 00:01:11,440
-Have you ever caught in the air wall?
+00:00:54,200 --> 00:00:57,396
+Eu não sei se você pode falar sobre isso
 
 27
-00:01:11,440 --> 00:01:13,340
-Hit the vehicle in time?
-It right?
+00:00:57,421 --> 00:01:01,020
+Mas qual é sua luta clandestina favorita?
 
 28
-00:01:13,370 --> 00:01:17,020
-No, but I'm going to have to see that one.
+00:01:01,040 --> 00:01:02,540
+Tipo, você tá no Taco Bell
 
 29
+00:01:02,570 --> 00:01:06,560
+E tem um cara falando merda sobre você e você faz tipo...
+
+30
+00:01:06,940 --> 00:01:08,000
+Essa é boa!
+
+31
+00:01:08,050 --> 00:01:10,100
+Cuspir na mão e dar o tapa é uma boa!
+
+32
+00:01:10,120 --> 00:01:12,822
+Você já cuspiu e acertou o tapa bem na hora em que o cuspe bate na cara?
+
+33
+00:01:12,847 --> 00:01:13,346
+Bem no tempo certo, tipo...
+
+34
+00:01:13,370 --> 00:01:17,020
+Não, mas eu tenho que ver isso
+
+35
 00:01:17,040 --> 00:01:18,080
-It's a pretty good one, bro.
+Essa é muito boa, irmão
 
