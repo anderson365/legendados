@@ -1,0 +1,7 @@
+Tom automático
+Contraste automático
+Cor automática
++ Contraste
++ Saturação
++ Nitidez
+Ponto de luz
