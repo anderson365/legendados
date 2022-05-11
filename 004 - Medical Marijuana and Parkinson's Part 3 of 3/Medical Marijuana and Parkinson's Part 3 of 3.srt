@@ -108,42 +108,45 @@ ANTES                           DEPOIS
 
 28
 00:01:35,920 --> 00:01:39,200
-Funciona na maioria das vezes.
+Funciona na maioria das vezes
 
 29
-00:01:44,600 --> 00:01:53,820
-Did you guys get lunch really easy?
+00:01:44,580 --> 00:01:46,563
+Vocês almoçaram?
 
 30
-00:01:53,850 --> 00:02:01,460
-Marijuana makes me pretty angry
-that I can't get it by Allstate.
+00:01:48,170 --> 00:01:50,055
+Engraçado. Eu estou.
 
 31
-00:02:01,490 --> 00:02:05,100
-The number one frustration that I have is
+00:01:51,087 --> 00:01:54,990
+A maconha poderia muito bem servir para pessoas como eu
 
 32
-00:02:05,130 --> 00:02:11,680
-knowing that there is this untapped
-potential comes from what marijuana is
+00:01:55,015 --> 00:02:01,460
+Fico furioso por não poder comprar no estado onde moro
 
 33
-00:02:11,710 --> 00:02:19,340
-teaching us to generate new medicines
-and being stuck because of financial
+00:02:01,490 --> 00:02:05,100
+A maior frustração que eu tenho
 
 34
-00:02:19,370 --> 00:02:23,580
-issues or political issues,
-that is extremely frustrating.
+00:02:05,130 --> 00:02:11,680
+É que existe esse potencial inexplorado vindo do que a maconha está nos ensinando
 
 35
-00:02:23,610 --> 00:02:30,060
-We now know that medical marijuana
-controls Dyskinesia and yet it's not.
+00:02:11,710 --> 00:02:19,340
+Para gerar novos medicamentos e ficar travado por conta de questões financeiras
 
 36
-00:02:30,080 --> 00:02:31,120
-It's not available to us.
+00:02:19,370 --> 00:02:23,580
+Ou questões políticas. Isso é extremamente frustrante.
+
+37
+00:02:23,610 --> 00:02:27,857
+Nós agora sabemos que a maconha medicinal controla Discinesia
+
+38
+00:02:27,882 --> 00:02:31,120
+E mesmo assim não é disponível para nós
 
